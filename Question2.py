@@ -35,5 +35,9 @@ fig1, ax1 = plt.subplots()
 ax1.pie(sizes,explode=explode, labels=labels, autopct=make_autopct(sizes),shadow=True, startangle=90)
 ax1.axis('equal')
 plt.title("How big a share of the global sales does the NA sales cover?\n (Numbers are in millions)")
-plt.savefig('Plots/Question2Chart.png')
+plt.savefig('Question2Chart.png')
 #plt.show()
+
+-------
+
+=============

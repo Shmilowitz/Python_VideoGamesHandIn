@@ -24,7 +24,7 @@ plt.bar(y_pos, performance, align='center', alpha=0.5)
 plt.xticks(y_pos, objects, rotation=90)
 plt.ylabel('Amount of games')
 plt.title('Most popular publisher in top 100')
-plt.savefig('Plots/Question4Chart.png', bbox_inches='tight',dpi=100)
+plt.savefig('Question4Chart.png', bbox_inches='tight',dpi=100)
 #Saved version is scaled so everything can be seen properly compared to "show" version
 #plt.show()
 print(pub100.most_common(10))

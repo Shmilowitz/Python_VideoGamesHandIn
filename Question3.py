@@ -26,6 +26,6 @@ plt.bar(y_pos, performance, align='center', alpha=0.5)
 plt.xticks(y_pos, objects, rotation=45)
 plt.ylabel('Amount of games')
 plt.title('Most popular game genre in 2012(Top 10)')
-plt.savefig('Plots/Question3Chart.png', bbox_inches='tight')
+plt.savefig('Question3Chart.png', bbox_inches='tight')
 #Saved version is scaled so everything can be seen properly compared to "show" version
 #plt.show()
