@@ -3,7 +3,7 @@ Video Game Exercise for Python
 Purpose
 -------
 
-investigate different subjects of video game sales.
+Investigate different subjects of video game sales.
 
 Getting Started
 -------
