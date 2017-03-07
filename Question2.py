@@ -37,7 +37,3 @@ ax1.axis('equal')
 plt.title("How big a share of the global sales does the NA sales cover?\n (Numbers are in millions)")
 plt.savefig('Question2Chart.png')
 #plt.show()
-
--------
-
-=============
