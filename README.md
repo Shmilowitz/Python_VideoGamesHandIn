@@ -14,7 +14,6 @@ Each QuestionX.py generates a plot which is saved in the root directory of the p
 
 Prerequisites
 -------
-Start off 
 This project requires the following modules to be installed/imported:
 * `numpy`
 * `matplotlib.pyplot` 
