@@ -15,14 +15,14 @@ Each QuestionX.py generates a plot which is saved in the root directory of the p
 Prerequisites
 -------
 Start off 
-My python files requires the following libaries to run:
+This project requires the following modules to be installed/imported:
 * `numpy`
 * `matplotlib.pyplot` 
 * `pandas`
 * `collections`
 * `csv`
 
-Authors
+Author
 -------
 
 David Shmilowitz
