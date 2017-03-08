@@ -31,8 +31,8 @@ mostReleased.most_common(20)[18][1],mostReleased.most_common(20)[19][1]
 y_pos = np.arange(len(objects))
 plt.bar(y_pos, performance, align='center', alpha=0.5)
 plt.xticks(y_pos, objects, rotation=90)
-plt.ylabel('Amount of games')
-plt.title('Most popular publisher in top 200')
+plt.ylabel('Amount of titles released')
+plt.title('Year with most titles released')
 plt.savefig('Question5Chart.png', bbox_inches='tight',dpi=200)
 #Saved version is scaled so everything can be seen properly compared to "show" version
 #plt.show()
